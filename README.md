@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Rai</h1>
 <h3 align="center">A passionate frontend developer from India.🌐 I'm also deeply skilled in data structures, algorithms, and core computer science concepts such as object-oriented programming, database management systems, and networking. Let's collaborate and bring your web projects to life! Feel free to reach out, and let's build something remarkable together. 👨‍💻✨</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-098" alt="akash-098" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@kumarakash86007" target="blank"><img src="https://img.shields.io/twitter/follow/@kumarakash86007?logo=twitter&style=for-the-badge" alt="@kumarakash86007" /></a> </p>
 
 - 🌱 I’m currently learning **NextJs, Typescript**
 
